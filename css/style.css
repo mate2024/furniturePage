@@ -335,4 +335,9 @@ body{
     gap: 20px;
 }
 /***************************Responsive*********************/
+@media(max-width: 768px){
+   .menu{
+    gap: 20px;
+   } 
+}
 /*shevcvale*/
