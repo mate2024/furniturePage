@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'gilroy';
+    src: url(..//fonts/Gilroy-Bold.ttf);
+    font-weight: bolder;
+}
+@font-face{
+    font-family: 'gilroy';
+    src: url(../fonts/Gilroy-Light.ttf);
+    font-weight: lighter;
+}
